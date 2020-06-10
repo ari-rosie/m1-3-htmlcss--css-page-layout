@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+nav, footer {
+    background-color: #383630;
+    color: white;
+}
+
+.container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.main-item {
+    flex: 2 0 auto;
+    text-transform: uppercase;
+}
+
+.cont-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
