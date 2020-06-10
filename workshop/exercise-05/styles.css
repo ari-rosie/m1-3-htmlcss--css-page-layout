@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+}
+
+.container { 
+    width: 100vw;   
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+img {
+    width: 33vw;
+    outline: red solid 5px;
+}   
+
+.row {
+    
+}
